@@ -1,2 +1,4 @@
 # elasticsearch
-elasticsearch培训文档
+结合自己使用elasticsearch的经历，整理了在使用elasticsearch过程中的信息
+
+简单介绍了elasticsearch基本概念和相关问题的解决方案
